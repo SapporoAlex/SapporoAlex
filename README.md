@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SapporoAlex.
-- 👀 I’m interested in chess, jogging, and cooking.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in education, chess, jogging, and cooking.
+- 🌱 I’m currently learning Python and HTML.
 
 <!---
 SapporoAlex/SapporoAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
