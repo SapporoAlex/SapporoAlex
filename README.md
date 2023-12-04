@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SapporoAlex.
-- 👀 I’m interested in education, chess, jogging, and cooking.
+- 👀 I’m interested in education, chess, jogging, gaming, and cooking.
 - 🌱 I’m currently learning Python and HTML.
 
 <!---
