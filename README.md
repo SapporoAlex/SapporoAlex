@@ -39,9 +39,8 @@ Feel free to explore and provide feedback on any of the projects!
 
 ## 🤝 Let's connect
 
-- Email: [Your Email]
+- Email: [alexanderfromaustralia@gmail.com]
 - LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
 
 I'm always open to interesting discussions and collaboration opportunities. If you have any questions or just want to chat, feel free to reach out!
 
