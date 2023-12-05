@@ -20,7 +20,7 @@ I'm currently focused on mastering full-stack development. It should be a fun ti
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sapporalex&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SapporAlex&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 
