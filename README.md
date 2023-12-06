@@ -27,7 +27,7 @@ Here are some of the projects I'm proud of:
 Feel free to explore and provide feedback on any of the projects!
 
 ## 🤝 Let's connect
-- Email: [alexanderfromaustralia@gmail.com]
+- Email: alexanderfromaustralia@gmail.com
 - LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
 
 I'm always open to interesting discussions and collaboration opportunities. If you have any questions or just want to chat, feel free to reach out!
