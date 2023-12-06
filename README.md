@@ -29,8 +29,8 @@ I'm currently focused on mastering full-stack development. It should be a fun ti
 Here are some of the projects I'm proud of:
 
 1. [Defender](link-to-project-1) - Brief description
-2. [Project 2](link-to-project-2) - Brief description
-3. [Project 3](link-to-project-3) - Brief description
+2. [Invoice-Creator](link-to-project-2) - Brief description
+3. [DND Monster Attack Roller](link-to-project-3) - Brief description
 
 Feel free to explore and provide feedback on any of the projects!
 
