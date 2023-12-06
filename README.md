@@ -10,7 +10,6 @@ I'm currently focused on further developing my programming and data science skil
 ## 🔧 Technologies & Tools
 - Python
 - HTML
-- Java Script
 - Django
 - SQL
 
