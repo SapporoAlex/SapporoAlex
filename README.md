@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alex McKinley
+# G'day mate! 👋 I'm Alex McKinley
 I'm an Aussie and a passionate programmer based in Sapporo, Hokkaido, Japan. Welcome to my GitHub profile! 🚀
 
 ## About Me
