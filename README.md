@@ -9,6 +9,7 @@ I'm currently focused on further developing my software development and data sci
 
 ## 🔧 Technologies & Tools
 - Python
+- C++
 - HTML
 - Django
 - SQL
