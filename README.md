@@ -2,7 +2,7 @@
 I'm an Aussie and a passionate programmer based in Sapporo, Hokkaido, Japan. Welcome to my GitHub profile! 🚀
 
 ## About Me
-I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love programming games, software development, as well as web development, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
+I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love programming games, software development, as well as data science, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
 
 ## 🌱 I’m currently learning
 I'm currently focused on further developing my software development and data science skills. It should be a fun time!
