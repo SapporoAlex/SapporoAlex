@@ -16,7 +16,7 @@ I'm currently focused on further developing my software development and web deve
 ## 🚀 Projects
 Here are some of the projects I'm proud of:
 
-![defender](https://github.com/SapporoAlex/Game-Defender/tree/main/assets/sample.gif)
+<img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/sample.gif"
 1. [Defender](https://github.com/SapporoAlex/Game-Defender) - Building this game taught me how to use classes and functions, in addition to creating a window to display images on. I continue to make games using these skills.
 2. [Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - Completing this automation project helped me understand dictionaries, openpyxl, and how to write a script that uses a gmail SMTP server.
 3. [DND Monster Attack Roller](https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI) - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
