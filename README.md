@@ -5,7 +5,7 @@ I'm an Aussie and a passionate programmer based in Sapporo, Hokkaido, Japan. Wel
 I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love programming games, software development, as well as data science, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
 
 ## 🌱 I’m currently learning
-I'm currently focused on further developing my software development and data science skills. It should be a fun time!
+I'm currently focused on further developing my software development and web development skills. It should be a fun time!
 
 ## 🔧 Technologies & Tools
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/260px-Django_logo.svg.png" height="60">
