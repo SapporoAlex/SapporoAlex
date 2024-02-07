@@ -26,7 +26,7 @@ Here are some of the projects I'm proud of:
 
 <h3> Web Development </h3>
 
-<img src="[https://github.com/SapporoAlex/Game-Defender/blob/main/assets/sample.gif](https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true)" width="300" height="300">
+<img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="300" height="300">
 
 [PyShop](https://github.com/SapporoAlex/PyShop-Website-Made-in-Django) - This is a mock fruit shop website built with Django.
 
