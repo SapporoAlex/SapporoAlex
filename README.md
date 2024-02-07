@@ -7,8 +7,7 @@ I have a background in education, and I can see the potential in utilising these
 ## Technologies & Tools
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/260px-Django_logo.svg.png" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="60"> 
 
-## Projects
-Here are some of the projects I'm proud of:
+## My Projects
 
 <h2> Games </h2>
 
@@ -23,7 +22,9 @@ Here are some of the projects I'm proud of:
 [Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - Completing this automation project helped me understand dictionaries, openpyxl, and how to write a script that uses a gmail SMTP server.
 
 <h2> Software Development </h2>
-   
+
+<img src="MAR%20Assets/Other/preview.gif" width="100" height="300">
+
 [DND Monster Attack Roller](https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI) - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
 
 <h2> Web Development </h2>
