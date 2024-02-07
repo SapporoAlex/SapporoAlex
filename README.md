@@ -10,23 +10,25 @@ I have a background in education, and I can see the potential in utilising these
 ## Projects
 Here are some of the projects I'm proud of:
 
-<h3> Games </h3>
+<h2> Games </h2>
 
-<img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/sample.gif" width="300" height="300">
+<img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/sample.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
 
 [Defender](https://github.com/SapporoAlex/Game-Defender) - Building this game taught me how to use classes and functions, in addition to creating a window to display images on. I continue to make games using these skills.
 
-<h3> Automation </h3>
+[Snake](https://github.com/SapporoAlex/Game-Snake) - The classic snake game with dynamic original music and sound effects.
+
+<h2> Automation </h2>
 
 [Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - Completing this automation project helped me understand dictionaries, openpyxl, and how to write a script that uses a gmail SMTP server.
 
-<h3> Software Development </h3>
+<h2> Software Development </h2>
    
 [DND Monster Attack Roller](https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI) - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
 
-<h3> Web Development </h3>
+<h2> Web Development </h2>
 
-<img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="300" height="300">
+<img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="500" height="300">
 
 [PyShop](https://github.com/SapporoAlex/PyShop-Website-Made-in-Django) - This is a mock fruit shop website built with Django.
 
