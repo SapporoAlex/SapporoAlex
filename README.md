@@ -23,7 +23,7 @@ I have a background in education, and I can see the potential in utilising these
 
 <h2> Software Development </h2>
 
-<img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="100" height="300">
+<img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="200" height="350">
 
 [DND Monster Attack Roller](https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI) - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
 
