@@ -19,6 +19,8 @@ I have a background in education, and I can see the potential in utilising these
 
 <h2> Automation </h2>
 
+<img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="300">
+
 [Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - Completing this automation project helped me understand dictionaries, openpyxl, and how to write a script that uses a gmail SMTP server.
 
 <h2> Software Development </h2>
