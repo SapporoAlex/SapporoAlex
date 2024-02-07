@@ -19,7 +19,9 @@ I have a background in education, and I can see the potential in utilising these
 
 <h2> Automation </h2>
 
-<img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="300">
+<img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="200">
+
+[Japanese to English Excel Translator](https://github.com/SapporoAlex/Excel-to-Deepl-Translator) - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
 
 [Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - Completing this automation project helped me understand dictionaries, openpyxl, and how to write a script that uses a gmail SMTP server.
 
