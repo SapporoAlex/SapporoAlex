@@ -11,7 +11,7 @@ I have a background in education, and I can see the potential in utilising these
 
 <h2> Games </h2>
 
-<img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/sample.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
+<img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
 
 [Defender](https://github.com/SapporoAlex/Game-Defender) - Building this game taught me how to use classes and functions, in addition to creating a window to display images on. I continue to make games using these skills.
 
