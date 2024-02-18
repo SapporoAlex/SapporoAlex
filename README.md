@@ -11,7 +11,7 @@ I have a background in education, and I can see the potential in utilising these
 
 <h2> Games </h2>
 
-<img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
+<img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="500" height="300">  <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
 
 [Dungeon Quest](https://github.com/SapporoAlex/Game-Dungeon-Quest) - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
 
