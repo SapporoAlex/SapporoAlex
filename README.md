@@ -13,7 +13,9 @@ I have a background in education, and I can see the potential in utilising these
 
 <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
 
-[Defender](https://github.com/SapporoAlex/Game-Defender) - Building this game taught me how to use classes and functions, in addition to creating a window to display images on. I continue to make games using these skills.
+[Dungeon Quest](https://github.com/SapporoAlex/Game-Dungeon-Quest) - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
+
+[Defender](https://github.com/SapporoAlex/Game-Defender) - A game with a title screen and multiple levels showing an understanding of basic animation, and python programming in general. 
 
 [Snake](https://github.com/SapporoAlex/Game-Snake) - The classic snake game with dynamic original music and sound effects.
 
