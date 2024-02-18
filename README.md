@@ -15,7 +15,7 @@ I have a background in education, and I can see the potential in utilising these
 
 [Dungeon Quest](https://github.com/SapporoAlex/Game-Dungeon-Quest) - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
 
-[Defender](https://github.com/SapporoAlex/Game-Defender) - A game with a title screen and multiple levels showing an understanding of animation, and strong python programming in general. 
+[Defender](https://github.com/SapporoAlex/Game-Defender) - A game with a title screen and multiple levels showing my understanding of animation, and strong python programming in general. 
 
 [Snake](https://github.com/SapporoAlex/Game-Snake) - The classic snake game with dynamic original music and sound effects.
 
