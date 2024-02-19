@@ -15,7 +15,8 @@ I have a background in education, and I can see the potential in utilising these
     <td>
       
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="400" height="300">
-      <[Dungeon Quest](https://github.com/SapporoAlex/Game-Dungeon-Quest) - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.>
+      <br>
+      [Dungeon Quest](https://github.com/SapporoAlex/Game-Dungeon-Quest) - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
     </td>
     <td>
       <!-- Content for column 2 -->
