@@ -1,4 +1,6 @@
 # G'day mate! I'm Alex McKinley
+- Email: alexanderfromaustralia@gmail.com
+- LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
 I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Welcome to my GitHub profile!
 
 ## About Me
@@ -41,10 +43,7 @@ I have a background in education, and I can see the potential in utilising these
 
 Feel free to explore and provide feedback on any of the projects!
 
-
-## 🤝 Let's connect
-- Email: alexanderfromaustralia@gmail.com
-- LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
+<br>
 
 I'm always open to interesting discussions and collaboration opportunities. If you have any questions or just want to chat, feel free to reach out!
 
