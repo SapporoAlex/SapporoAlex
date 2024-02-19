@@ -27,17 +27,29 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
+      <br>
     </td>
   </tr>
 </table>
 
 <h2> Automation </h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="200">
+      <br>
+      <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
+    </td>
+    <td>
+      
+    </td>
+  </tr>
+</table>
 
-<img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="200">
 
-[Japanese to English Excel Translator](https://github.com/SapporoAlex/Excel-to-Deepl-Translator) - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
+[]() 
 
-[Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - Completing this automation project helped me understand dictionaries, openpyxl, and how to write a script that uses a gmail SMTP server.
+[Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
 
 <h2> Software Development </h2>
 
