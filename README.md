@@ -41,7 +41,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" style="max-width:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
+      <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This program uses the Openpyxl library and the Deepl API to translate Excel files.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:100%; height:auto;">
@@ -51,7 +51,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
+      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This uses openpyxl to read a payments excel file to find the total amount to be paid that month, creates an invoice sheet with appropriate dates and payment figures, then sends as an email attachment with an appropriate message in the email body.
     </>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
