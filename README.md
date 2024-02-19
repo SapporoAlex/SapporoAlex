@@ -66,12 +66,12 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" width="300" height="300">
+      <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - This text editor was made with the TKinter library. It features the ability to save and open txt files, and add emojis from various categories. I made this program for my daughter to encourage her to write.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="200" height="350">
+      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
     </td>
@@ -82,7 +82,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="500" height="300">
+      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - This is a mock fruit shop website built with Django.
     </td>
