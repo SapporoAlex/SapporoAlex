@@ -10,28 +10,26 @@ I have a background in education, and I can see the potential in utilising these
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/260px-Django_logo.svg.png" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="60"> 
 
 ## My Projects
+<h2>Games</h2>
 <table>
   <tr>
     <td>
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="400" height="300">
       <br>
-      [Dungeon Quest](https://github.com/SapporoAlex/Game-Dungeon-Quest) - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
+      <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
     </td>
     <td>
-      <!-- Content for column 2 -->
-      Column 2 content goes here. Feel free to include text, images, links, etc.
+      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels showing my understanding of animation, and strong python programming in general.
+    </td>
+    <td>
+      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
     </td>
   </tr>
 </table>
-<h2> Games </h2>
-
-  <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">  <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
-
-
-
-[Defender](https://github.com/SapporoAlex/Game-Defender) - A game with a title screen and multiple levels showing my understanding of animation, and strong python programming in general. 
-
-[Snake](https://github.com/SapporoAlex/Game-Snake) - The classic snake game with dynamic original music and sound effects.
 
 <h2> Automation </h2>
 
