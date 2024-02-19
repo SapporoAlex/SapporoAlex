@@ -41,7 +41,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
     </td>
     <td>
-      <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" width="300" height="300">
+      <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" width="350" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - This webscraper uses Beautiful Soup, Playwright and Pandas to scrape the latest special deal card prices from the Hareruya website. The data is put into an easy to understand excel file table.
     </td>
