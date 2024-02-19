@@ -36,7 +36,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="300" height="100">
+      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="300" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
     </td>
