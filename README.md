@@ -51,7 +51,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This uses openpyxl to read a payments excel file, creates an invoice sheet, then sends as an email attachment with an appropriate message in the email body.
+      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This uses openpyxl to read a payments Excel file, creates an invoice sheet, then sends as an email attachment with an appropriate message in the email body.
     </>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
