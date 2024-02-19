@@ -14,7 +14,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="400" height="300">
+      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="300" height="250">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
     </td>
