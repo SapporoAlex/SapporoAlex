@@ -65,7 +65,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" width="300" height="300">
       <br>
-      <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - This text editor was made with the TKinter library. It features the ability to save, load, and add emojis from various categories. I made this program for my daughter to encourage her to write.
+      <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - This text editor was made with the TKinter library. It features the ability to save and open txt files, and add emojis from various categories. I made this program for my daughter to encourage her to write.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="200" height="350">
