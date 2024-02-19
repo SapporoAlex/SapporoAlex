@@ -13,17 +13,17 @@ I have a background in education, and I can see the potential in utilising these
 <h2>Games</h2>
 <table>
   <tr>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="400" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
     </td>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels showing my understanding of animation, and strong python programming in general.
     </td>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
@@ -62,7 +62,7 @@ I have a background in education, and I can see the potential in utilising these
 <h2> Software Development </h2>
 <table>
   <tr>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="200" height="350">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
@@ -73,7 +73,7 @@ I have a background in education, and I can see the potential in utilising these
 <h2> Web Development </h2>
 <table>
   <tr>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="500" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - This is a mock fruit shop website built with Django.
