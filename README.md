@@ -49,16 +49,26 @@ I have a background in education, and I can see the potential in utilising these
 </table>
 
 <h2> Software Development </h2>
-
-<img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="200" height="350">
-
-[DND Monster Attack Roller](https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI) - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" width="200" height="350">
+      <br>
+      <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
+    </td>
+  </tr>
+</table>
 
 <h2> Web Development </h2>
-
-<img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="500" height="300">
-
-[PyShop](https://github.com/SapporoAlex/PyShop-Website-Made-in-Django) - This is a mock fruit shop website built with Django.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" width="500" height="300">
+      <br>
+      <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - This is a mock fruit shop website built with Django.
+    </td>
+  </tr>
+</table>
 
 Feel free to explore and provide feedback on any of the projects!
 
