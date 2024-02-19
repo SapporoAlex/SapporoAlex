@@ -36,7 +36,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="300" height="300">
+      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="300" height="50">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
     </td>
@@ -51,7 +51,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
     </>
     <td align="center" style="padding: 10px;">
-      <img src="https://camo.githubusercontent.com/6e4c84250eecbaccb930d22126e229e500a7ffbada09da35acdb4a23bdcfe01b/68747470733a2f2f696d616765732e6368657373636f6d66696c65732e636f6d2f75706c6f6164732f76312f696d616765735f75736572732f74696e795f6d63652f4e617468616e69656c477265656e2f7068703068576439452e706e67" width="300" height="300">
+      <img src="https://camo.githubusercontent.com/6e4c84250eecbaccb930d22126e229e500a7ffbada09da35acdb4a23bdcfe01b/68747470733a2f2f696d616765732e6368657373636f6d66696c65732e636f6d2f75706c6f6164732f76312f696d616765735f75736572732f74696e795f6d63652f4e617468616e69656c477265656e2f7068703068576439452e706e67" width="300" height="50">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
     </td>
