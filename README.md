@@ -43,7 +43,7 @@ I have a background in education, and I can see the potential in utilising these
     <td>
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" width="500" height="250">
       <br>
-      <a href="https://github.com/SapporoAlex/Automated-Invoice"> Invoice Creator<\a> - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
+      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
     </td>
   </tr>
 </table>
