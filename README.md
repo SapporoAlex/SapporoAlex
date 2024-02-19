@@ -14,7 +14,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td>
-      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="400" height="200">
+      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" width="400" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This 90s inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
     </td>
@@ -36,7 +36,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td>
-      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="200">
+      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" width="700" height="150">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
     </td>
