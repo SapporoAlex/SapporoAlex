@@ -51,7 +51,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
     </>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" width="400" height="100">
+      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" width="300" height="300">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
     </td>
