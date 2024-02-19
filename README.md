@@ -41,15 +41,12 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This reads the Japanese text from an excel file, stores it as text chunks in a text document, then translates the text document. Each translated text chunk is then written to the corresponding row of the original Excel file. This program uses the Openpyxl library and the Deepl API.
     </td>
     <td>
-      
+      <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" width="500" height="250">
+      <br>
+      <a href="https://github.com/SapporoAlex/Automated-Invoice"> Invoice Creator<\a> - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
     </td>
   </tr>
 </table>
-
-
-[]() 
-
-[Invoice-Creator](https://github.com/SapporoAlex/Automated-Invoice) - This automation project uses openpyxl to read a payments excel file to find the total amount to be paid that month. It then creates an invoice sheet with appropriate dates and payment figures, which it then automatically sends as an email attachment at the end of each month along with an appropriate message in the email body.
 
 <h2> Software Development </h2>
 
