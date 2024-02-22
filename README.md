@@ -46,14 +46,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - 
-      <pre>
-        This webscraper uses Beautiful Soup, 
-        Playwright and Pandas to scrape the
-        latest special deal card prices from
-        the Hareruya website. The data is put
-        into an Excel file table.
-      </pre>
+      <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - This webscraper uses Beautiful Soup, Playwright and Pandas to scrape thelatest special deal card prices from the Hareruya website. The data is put into an Excel file table.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
