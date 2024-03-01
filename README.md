@@ -23,12 +23,12 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This Amiga inspired game has a basic enemy AI, as well a many fun gameplay feautures that show my programming ability.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" width="300" height="300">
+      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels showing my understanding of animation, and strong python programming in general.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" width="300" height="300">
+      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
       <br>
