@@ -2,15 +2,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <style>
-    @media only screen and (max-width: 600px) {
-        table {
-            width: 100%;
-        }
-        td {
-            word-break: break-word; /* Break long words */
-            min-width: 14ch; /* Minimum width of 14 characters */
-            padding: 10px; /* Add padding for readability */
-        }
+    table {
+        width: 100%;
+    }
+    td {
+        word-break: break-word; /* Break long words */
+        min-width: 14ch; /* Minimum width of 14 characters */
+        padding: 10px; /* Add padding for readability */
     }
 </style>
 
