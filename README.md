@@ -2,8 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 img {
-    max-width: 100%; /* Ensures images don't exceed their container width */
-    height: auto; /* Maintains aspect ratio */
+    max-width: 100%;
+    height: auto;
 }
 
 # G'day mate! I'm Alex McKinley
