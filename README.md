@@ -33,6 +33,12 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
       <br>
     </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - An original re-skin of the Dino Jump game made in Pygame.
+      <br>
+    </td>
   </tr>
 </table>
 
