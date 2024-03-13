@@ -1,17 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<style>
-    table {
-        width: 100%;
-    }
-    td {
-        word-break: break-word; /* Break long words */
-        min-width: 14ch; /* Minimum width of 14 characters */
-        padding: 10px; /* Add padding for readability */
-    }
-</style>
-
 # G'day mate! I'm Alex McKinley
 - Email: alexanderfromaustralia@gmail.com
 - LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
@@ -33,18 +22,18 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This Amiga inspired game has turn-based gameplay, basic enemy AI, main menu, and multiple levels.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels, animation, and hit-detection.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
       <br>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - An original re-skin of the Dino Jump game made in Pygame.
