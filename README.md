@@ -23,7 +23,8 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" height="200" max-width="auto">
+      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" style="max-width: 100%;
+    height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This Amiga inspired game has turn-based gameplay, basic enemy AI, main menu, and multiple levels.
     </td>
