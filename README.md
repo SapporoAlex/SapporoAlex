@@ -28,7 +28,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels showing my understanding of animation, and strong python programming in general.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width:100%; height:auto;">
+      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width:200%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
       <br>
