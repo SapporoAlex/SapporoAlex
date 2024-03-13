@@ -34,7 +34,7 @@ I have a background in education, and I can see the potential in utilising these
       <br>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="height:200; max-width:auto;">
+      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" height="200" max-width="auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - An original re-skin of the Dino Jump game made in Pygame.
       <br>
