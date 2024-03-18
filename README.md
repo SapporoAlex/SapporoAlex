@@ -46,6 +46,11 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Japanese to English Excel Translator</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
+    </td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This program uses the Openpyxl library and the Deepl API to translate Excel files.
