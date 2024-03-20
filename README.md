@@ -13,30 +13,27 @@ I have a background in education, and I can see the potential in utilising these
 ## Technologies & Tools
 <table>
   <tr width="100" height="auto">
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This Amiga inspired game has turn-based gameplay, basic enemy AI, main menu, and multiple levels.
+    <td align="center" style="min-width: 14ch; padding: 10px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80">
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels, animation, and hit-detection.
+    <td align="center" style="min-width: 14ch; padding: 10px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="80">
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - The classic snake game with dynamic original music and sound effects.
-      <br>
+    <td align="center" style="min-width: 14ch; padding: 10px">
+    <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" height="80">
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - An original re-skin of the Dino Jump game made in Pygame.
-      <br>
+    <td align="center" style="min-width: 14ch; padding: 10px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="80">
+    </td>
+    <td align="center" style="min-width: 14ch; padding: 10px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="80">
+    </td>
+    <td align="center" style="min-width: 14ch; padding: 10px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="80">
     </td>
   </tr>
 </table>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="80">  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" height="80">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="80">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="80">
 
 ## My Projects
