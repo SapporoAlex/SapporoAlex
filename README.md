@@ -13,7 +13,7 @@ I have a background in education, and I can see the potential in utilising these
 ## Technologies & Tools
 <table style="border-collapse: collapse;">
   <tr width="100" height="auto">
-    <td align="center" style="min-width: 14ch; padding: 10px; border: none;">
+    <td align="center" style="min-width: 14ch; padding: 10px; border: 0;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80">
     </td>
     <td align="center" style="min-width: 14ch; padding: 10px"; border: 0;>
