@@ -1,5 +1,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<style>
+    table.no-border, .no-border td {
+      border: 0;
+      border-collapse: collapse;
+    }
+</style>
 
 # G'day mate! I'm Alex McKinley
 - Email: alexanderfromaustralia@gmail.com
@@ -11,7 +17,7 @@ I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Wel
 I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love programming games, software development, as well as data science, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
 
 ## Technologies & Tools
-<table>
+<table class="no-border">
   <tr width="100" height="auto">
     <td align="center" style="min-width: 14ch; padding: 10px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80">
