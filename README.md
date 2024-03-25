@@ -97,6 +97,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - As an educator, I often make programs that I can use as teaching materials in the real world.
     </td>
+      <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:30%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Basic-Calculator">Elementary Maths Quiz</a> - A basic calculator made in C++.
+    </td>
   </tr>
 </table>
 
