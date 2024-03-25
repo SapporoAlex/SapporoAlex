@@ -93,14 +93,14 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:30%; height:auto;">
+      <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - As an educator, I often make programs that I can use as teaching materials in the real world.
     </td>
       <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:30%; height:auto;">
+      <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/Basic-Calculator">Elementary Maths Quiz</a> - A basic calculator made in C++.
+      <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - A basic calculator made in C++.
     </td>
   </tr>
 </table>
