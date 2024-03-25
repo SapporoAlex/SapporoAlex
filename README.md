@@ -78,6 +78,11 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/README.md">Shortest Path Algorithm Visualiser</a> - To show my competence with using Breadth-First-Search, and creating a shortest path algorithm, I created this simple visualisation program.
+    </td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - This text editor was made with the TKinter library. It features the ability to save and open txt files, and add emojis from various categories. I made this program for my daughter to encourage her to write.
