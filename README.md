@@ -1,6 +1,3 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 # G'day mate! I'm Alex McKinley
 - Email: alexanderfromaustralia@gmail.com
 - LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
@@ -14,9 +11,11 @@ I have a background in education, and I can see the potential in utilising these
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="80">
 
 ## My Projects
-<h2>Games</h2>
+
+### Games
+
 <table>
-  <tr width="100%">
+  <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
       <br>
@@ -27,6 +26,8 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels, animation, and hit-detection.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto;">
       <br>
@@ -42,7 +43,8 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
 </table>
 
-<h2> Automation </h2>
+### Automation
+
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
@@ -55,6 +57,13 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This program uses the Openpyxl library and the Deepl API to translate Excel files.
     </td>
+      <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
+    </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:100%; height:auto;">
       <br>
@@ -64,17 +73,12 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This uses openpyxl to read a payments Excel file, creates an invoice sheet, then sends as an email attachment with an appropriate message in the email body.
-    </>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
     </td>
   </tr>
 </table>
 
+### Software Development
 
-<h2> Software Development </h2>
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
@@ -91,6 +95,8 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" style="max-height:30%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
+  </tr>
+  <tr>
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:100%; height:auto;">
@@ -105,7 +111,7 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
 </table>
 
-<h2> Web Development </h2>
+### Web Development
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
@@ -119,3 +125,4 @@ I have a background in education, and I can see the potential in utilising these
 Feel free to explore and provide feedback on any of the projects!
 
 I'm always open to interesting discussions and collaboration opportunities. If you have any questions or just want to chat, feel free to reach out!
+
