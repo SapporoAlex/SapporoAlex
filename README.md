@@ -29,7 +29,7 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="preview.gif" style="max-width: 100%; height: auto;">
+      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width: 100%; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU.
       <br>
