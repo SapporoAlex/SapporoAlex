@@ -101,8 +101,13 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview.gif" style="max-height:30%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - This is a simple program, but because I designed it based on my specific needs, I find it extremely useful. This exemplifies how I can design a tailored program on my own.
+    </td>
   </tr>
   <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-height:30%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - This program uses a recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:100%; height:auto;">
