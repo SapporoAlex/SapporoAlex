@@ -22,18 +22,18 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - This Amiga inspired game has turn-based gameplay, basic enemy AI, main menu, and multiple levels.
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width: 100%; height: auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU.
+      <br>
+    </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - A game with a title screen and multiple levels, animation, and hit-detection.
     </td>
   </tr>
   <tr>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU.
-      <br>
-    </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto;">
       <br>
