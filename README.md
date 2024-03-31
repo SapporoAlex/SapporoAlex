@@ -58,15 +58,15 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
     </td>
+  <td>
+  <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto;"">
+  <br>
+  <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
+  </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.png" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - This program uses the Openpyxl library and the Deepl API to translate Excel files.
-    </td>
-      <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
     </td>
   </tr>
   <tr>
@@ -79,6 +79,11 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This uses openpyxl to read a payments Excel file, creates an invoice sheet, then sends as an email attachment with an appropriate message in the email body.
+    </td>
+          <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
     </td>
   </tr>
 </table>
