@@ -7,6 +7,10 @@ I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Wel
 ## About Me
 I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love programming games, software development, as well as data science, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
 
+## Qualifications
+- Bachelor of Education (Curtin University)
+- Scientific Computing with Python (Free Code Camp)
+
 ## Technologies & Tools
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="80">
 
