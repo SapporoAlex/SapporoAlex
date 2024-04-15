@@ -5,7 +5,7 @@
 I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Welcome to my GitHub profile!
 
 ## About Me
-I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love programming games, software development, as well as data science, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
+I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love working on data analysis, programming games, software development, as well as data science, and I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing great work solo.
 
 ## Qualifications
 - Scientific Computing with Python (Free Code Camp)
