@@ -18,7 +18,7 @@ I have a background in education, and I can see the potential in utilising these
 
 ## My Projects
 
-### Games
+### Game Development
 
 <table>
   <tr>
