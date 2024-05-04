@@ -100,7 +100,7 @@ I have a background in education, and I can see the potential in utilising these
   
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="width:200; height:auto;">
+      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="width:300; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
