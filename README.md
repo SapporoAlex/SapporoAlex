@@ -123,15 +123,15 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
+    </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width: 200; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
-    </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
   </tr>
   <tr>
