@@ -78,7 +78,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="width:300; height:auto;">
+      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
@@ -88,14 +88,14 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="height:300; height:auto;">
+      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-height:30%; height:auto;">
+      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
@@ -118,7 +118,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" width="300" style="max-width: 100%; height: auto;">
+      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
@@ -128,7 +128,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width: 200; height: auto;">
+      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
