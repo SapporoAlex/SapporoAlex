@@ -136,15 +136,15 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
-      <br>
-    </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
+      <br>
+    </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
       <br>
     </td>
   </tr>
