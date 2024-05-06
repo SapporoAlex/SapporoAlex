@@ -59,7 +59,7 @@ I have a background in education, and I can see the potential in utilising these
 
 <table>
   <tr>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto;"">
       <br>
       <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
@@ -86,7 +86,7 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - This uses openpyxl to read a payments Excel file, creates an invoice sheet, then sends as an email attachment with an appropriate message in the email body.
     </td>
-          <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts, and a summary sheet showing ratings by month.
