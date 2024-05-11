@@ -48,7 +48,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px;">
       <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" style="max-width:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/README.md">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
+      <a href="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/tree/main">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:100%; height:auto;">
