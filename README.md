@@ -157,6 +157,12 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
       <br>
     </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="max-width: 100%; height: auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
+      <br>
+    </td>
   </tr>
 </table>
 
