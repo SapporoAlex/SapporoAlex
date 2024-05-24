@@ -51,6 +51,8 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/tree/main">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:100%; height:auto;">
       <br>
@@ -74,10 +76,17 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - Uses Openpyxl and the Deepl API to translate Excel files.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - Reads an Excel file, creates invoice sheet, then sends by email.
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/TV-Scheduler/blob/main/preview.png" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/TV-Scheduler">TV Scheduler</a> - Plays videos to a screen at designated times
     </td>
   </tr>
 </table>
@@ -92,6 +101,11 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto;">
