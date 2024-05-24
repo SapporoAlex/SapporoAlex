@@ -118,6 +118,11 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
+    </td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:100%; height:auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
