@@ -74,6 +74,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - Uses Openpyxl and the Deepl API to translate Excel files.
     </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/PDF-Translator/blob/main/preview.jpg" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
+    </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
