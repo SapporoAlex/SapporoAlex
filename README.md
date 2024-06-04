@@ -65,9 +65,9 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:100%; height:auto;">
+      <img src="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
-      <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
+      <a href="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/tree/main">Kyoto Machiya Earnings Report Automation</a> - Data extraction, processing, and report generation.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.jpg" style="max-width:100%; height:auto;">
@@ -81,6 +81,11 @@ I have a background in education, and I can see the potential in utilising these
     </td>
   </tr>
   <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:100%; height:auto;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
+    </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto;">
       <br>
