@@ -25,34 +25,34 @@ I have a background in education, and I can see the potential in utilising these
 <table>
  <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto; object-fit:cover; border-radius:10px;">
       <br>
       <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:100%; height:auto; object-fit:cover; border-radius:10px;">
       <br>
       <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto; object-fit:cover; border-radius:10px;">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover; border-radius:10px;">
       <br>
       <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - Scrapes the latest special deal card prices from the Hareruya website.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover; border-radius:10px;">
       <br>
       <a href="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/tree/main">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:100%; height:auto; object-fit:cover; border-radius:10px;">
       <br>
       <a href="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/README.md">Shortest Path Algorithm Visualiser</a> - Uses Breadth-First-Search to find the shortest path.
     </td>
