@@ -1,3 +1,6 @@
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 # G'day mate! I'm Alex McKinley
 - Email: alexanderfromaustralia@gmail.com
 - LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
