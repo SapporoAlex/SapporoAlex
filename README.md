@@ -34,6 +34,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
     </td>
+       <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib">Lifestyle Visualisation</a> - An ongoing project visualising personal stats with Seaborn & Matplotlib.
+    </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
