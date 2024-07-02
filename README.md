@@ -206,7 +206,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px">
       <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Personal Portfolio Site</a> - Blog site with CRUD operations made in Django
+      <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Personal Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
