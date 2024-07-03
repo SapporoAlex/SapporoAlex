@@ -16,7 +16,7 @@ I have a background in education, and I can see the potential in utilising these
 - Certificate III In Hospitality (William Angliss Institute of TAFE)
 
 ## Technologies & Tools
-<div id="tools" padding="10px">
+<div id="tools" margin="15px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="80">
