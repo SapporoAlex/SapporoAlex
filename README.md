@@ -127,7 +127,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/tree/main" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/tree/main">YouTube to mp4/mp3</a> - Enter a URL to download as video or audio file.
     </td>
