@@ -127,11 +127,6 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/tree/main">YouTube to mp4/mp3</a> - Enter a URL to download as video or audio file.
-    </td>
-    <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
@@ -146,17 +141,22 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:100%; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
-    </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/tree/main">YouTube to mp4/mp3</a> - Enter a URL to download as video or audio file.
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:100%; height:auto; object-fit:cover;">
