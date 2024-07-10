@@ -173,7 +173,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Game-African-President">Dungeon Quest</a> - 1960s-Era RPG as an African President
+      <a href="https://github.com/SapporoAlex/Game-African-President">African President</a> - 1960s-Era RPG as an African President
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:100%; height:auto; object-fit:cover;">
