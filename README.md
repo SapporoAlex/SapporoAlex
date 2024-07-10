@@ -173,6 +173,11 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Game-African-President" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-African-President">Dungeon Quest</a> - 1960s-Era RPG as an African President
+    </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
@@ -181,12 +186,6 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
-    </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:100%; height: auto">
-      <br>
-      <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
-      <br>
     </td>
   </tr>
   <tr>
@@ -199,6 +198,12 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
+      <br>
+    </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:100%; height: auto">
+      <br>
+      <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
