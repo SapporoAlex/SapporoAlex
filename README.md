@@ -114,7 +114,6 @@ I have a background in education, and I can see the potential in utilising these
 
 
 ### Software Development
-
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
@@ -169,11 +168,10 @@ I have a background in education, and I can see the potential in utilising these
 
 
 ### Game Development
-
 <table>
   <tr>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-African-President" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-African-President">Dungeon Quest</a> - 1960s-Era RPG as an African President
     </td>
