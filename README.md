@@ -40,6 +40,11 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:200vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
+      </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/blob/main/preview.jpg" style="max-width:200vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/tree/main">OpenWeatherMap ETL data pipeline</a> - Extracts JSON from API, Transforms with pandas, Loads into SQLite.
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:200vw; height:auto; object-fit:cover;">
