@@ -190,13 +190,13 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 100%; height: auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Hammy-Racing-2024/tree/main">Hammy Racing 2024</a> - Fun game made in JavaScript
+    </td>
   </tr>
   <tr>
-   <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
-    </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto">
       <br>
@@ -214,6 +214,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
       <br>
+    </td>
+    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
     </td>
   </tr>
 </table>
