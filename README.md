@@ -63,7 +63,7 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - Scrapes the latest special deal card prices from the Hareruya website.
     </td>
-    <td align="center" style="padding: 10px; max-width:200vw; height:auto;>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/blob/main/preview.jpg" style="max-width:200vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/tree/main">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
