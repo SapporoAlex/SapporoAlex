@@ -81,34 +81,34 @@ I have a background in education, and I can see the potential in utilising these
 
 <table>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/tree/main">Kyoto Machiya Earnings Report Automation</a> - Data extraction, processing, and report generation.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - Uses Openpyxl and the Deepl API to translate Excel files.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/PDF-Translator/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - Reads an Excel file, creates invoice sheet, then sends by email.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/TV-Scheduler/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/TV-Scheduler">TV Scheduler</a> - Plays videos to a screen at designated times
@@ -121,49 +121,49 @@ I have a background in education, and I can see the potential in utilising these
 ### Software Development
 <table>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/tree/main">YouTube to mp4/mp3</a> - Enter a URL to download as video or audio file.
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - Educational game that runs in the terminal
     </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - basic calculator made in C++
@@ -175,47 +175,47 @@ I have a background in education, and I can see the potential in utilising these
 ### Game Development
 <table>
   <tr>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-African-President">African President</a> - 1960s-Era RPG as an African President
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="width: 250px; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 100%; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hammy-Racing-2024/tree/main">Hammy Racing 2024</a> - Fun game made in JavaScript
     </td>
   </tr>
   <tr>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
       <br>
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width: 250px; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
       <br>
     </td>
-    <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
@@ -227,17 +227,17 @@ I have a background in education, and I can see the potential in utilising these
 ### Web Development
 <table>
   <tr>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Personal Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hanashi-Blog-Site">Hanashi Blog</a> - Blog site with CRUD operations made in Django
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - Mock fruit shop website built with Django
