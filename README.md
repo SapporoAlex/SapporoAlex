@@ -186,7 +186,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="max-width: 100%; height: auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="width: 250px; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
@@ -210,7 +210,7 @@ I have a background in education, and I can see the potential in utilising these
       <br>
     </td>
     <td align="center" style="min-width: 14ch; word-break: break-word; padding: 10px">
-      <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="max-width: 100%; height: auto">
+      <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width: 250px; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
       <br>
