@@ -190,13 +190,13 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 100%; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hammy-Racing-2024/tree/main">Hammy Racing 2024</a> - Fun game made in JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Hammy-Stop/blob/main/images/preview.jpg" style="max-width: 100%; height: auto">
       <br>
@@ -209,6 +209,8 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
       <br>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:100%; height: auto">
       <br>
