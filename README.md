@@ -198,6 +198,12 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Game-Hammy-Stop/blob/main/images/preview.jpg" style="max-width: 100%; height: auto">
+      <br>
+      <a href="https://github.com/SapporoAlex/Game-Hammy-Stop/tree/main">Hammy Stop</a> - Python game with animation
+      <br>
+    </td>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
