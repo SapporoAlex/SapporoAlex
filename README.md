@@ -136,6 +136,8 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
@@ -146,13 +148,13 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Youtube-to-mp4-or-mp3/tree/main">YouTube to mp4/mp3</a> - Enter a URL to download as video or audio file.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:100%; height:auto; object-fit:cover;">
       <br>
