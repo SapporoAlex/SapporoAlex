@@ -200,7 +200,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Hammy-Racing-2024/tree/main">Hammy Racing 2024</a> - Fun game made in JavaScript
     </td>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Hammy-Stop/blob/main/images/preview.gif" style="max-width: 100%; height: auto">
+      <img src="https://github.com/SapporoAlex/Game-Hammy-Stop/blob/main/images/preview3.gif" style="max-width: 100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Hammy-Stop/tree/main">Hammy Stop</a> - Python game with animation
       <br>
