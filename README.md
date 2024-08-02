@@ -240,8 +240,16 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Personal Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
+      <a href="https://github.com/SapporoAlex/Portfolio-Japanese-Version">Personal Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
+    https://github.com/SapporoAlex/Portfolio-Japanese-Version
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
+    </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
