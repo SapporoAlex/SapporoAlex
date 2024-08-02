@@ -78,7 +78,6 @@ I have a background in education, and I can see the potential in utilising these
 
 
 ### Automation
-
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
