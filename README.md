@@ -121,7 +121,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.avi" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
     </td>
