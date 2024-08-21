@@ -46,11 +46,6 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/tree/main">OpenWeatherMap ETL data pipeline</a> - Extracts JSON from API, Transforms with pandas, Loads into SQLite.
     </td>
-    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:200vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
-    </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
@@ -68,10 +63,22 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/tree/main">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
     </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Blogpost-scraper/blob/main/p.png" style="max-width:200vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Blogpost-scraper">Blogpost Scraper</a> - Scrapes every entry by username.
+    </td>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:200vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/README.md">Shortest Path Algorithm Visualiser</a> - Uses Breadth-First-Search to find the shortest path.
+    </td>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:200vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
     </td>
   </tr>
 </table>
