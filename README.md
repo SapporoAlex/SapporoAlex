@@ -130,36 +130,14 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
+      <a href="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/tree/main">Voice Driven Daily Activity Logger</a> - Uses speech recognition, and text to speech to record personal stats.
     </td>
-    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
-    </td>
-    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
-    </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
-    </td>
-    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
-    </td>
-    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
   </tr>
   <tr>
@@ -169,18 +147,48 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
     </td>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
+    </td>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
+    </td>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - Educational game that runs in the terminal
     </td>
-      <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - basic calculator made in C++
     </td>
-  </tr>
+</tr>
 </table>
-
 
 ### Game Development
 <table>
