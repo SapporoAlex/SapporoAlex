@@ -1,7 +1,7 @@
 # G'day mate! I'm Alex McKinley
 - Email: alexanderfromaustralia@gmail.com
 - LinkedIn: [My profile](https://www.linkedin.com/in/alex-mckinley-257266296/)
-- My Japanese portfolio page: ([日本語のポートフォリオ](https://sapporoalex.github.io/Portfolio-Japanese-Version/)
+- My Japanese portfolio page: [日本語のポートフォリオ](https://sapporoalex.github.io/Portfolio-Japanese-Version/)
   
 I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Welcome to my GitHub profile!
 
