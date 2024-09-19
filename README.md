@@ -195,10 +195,17 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Park-Text-Based-Adventure/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Park-Text-Based-Adventure">The Park</a> - Text-based C++ game
+    </td>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-African-President">African President</a> - 1960s-Era RPG as an African President
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:100%; height:auto; object-fit:cover;">
       <br>
@@ -222,20 +229,22 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Hammy-Stop/tree/main">Hammy Stop</a> - Python game with animation
       <br>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width: 100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
       <br>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:100%; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width: 250px; height: auto">
       <br>
