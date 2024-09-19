@@ -252,7 +252,7 @@ I have a background in education, and I can see the potential in utilising these
       <br>
     </td>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width: 100%; height: auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/preview.jpg" style="max-width: 100%; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
     </td>
