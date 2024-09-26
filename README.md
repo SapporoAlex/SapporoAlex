@@ -171,9 +171,9 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:30vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Event-Schedule-Builder/blob/main/preview.jpg?raw=true" style="max-width:30vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
+      <a href="https://github.com/SapporoAlex/Event-Schedule-Builder">Event Builder</a> - Makes building event schedules fast and simple for teachers.
     </td>
     <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:30vw; height:auto; object-fit:cover;">
@@ -276,6 +276,13 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:30vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:200vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:30vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
     </td>
   </tr>
   <tr>
