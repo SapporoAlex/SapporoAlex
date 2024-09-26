@@ -211,20 +211,18 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Game-African-President">African President</a> - 1960s-Era RPG as an African President
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
+  <tr>
+  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="width: 20vw; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 20vw; height: auto; object-fit:cover;">
       <br>
@@ -250,14 +248,14 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width:20vw; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
       <br>
     </td>
+  <tr>
+  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/preview.jpg" style="max-width:20vw; height: auto; object-fit:cover;">
       <br>
@@ -280,13 +278,13 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hanashi-Blog-Site">Hanashi Blog</a> - Blog site with CRUD operations made in Django
     </td>
+    <tr>
+    </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
