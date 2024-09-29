@@ -269,7 +269,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Portfolio-Japanese-Version/blob/main/static/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Portfolio-Japanese-Version/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Portfolio-Japanese-Version">Personal Portfolio Site (Japanese-Language)</a> - My portfolio site for Japanese readers
     </td>
