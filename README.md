@@ -191,6 +191,11 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - Educational game that runs in the terminal
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Calculator/blob/main/preview.jpg" style="max-height:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Calculator/blob/main/README.md">Basic Calculator</a> - basic calculator made in Ruby
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - basic calculator made in C++
