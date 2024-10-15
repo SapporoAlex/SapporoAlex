@@ -288,13 +288,13 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hanashi-Blog-Site">Hanashi Blog</a> - Blog site with CRUD operations made in Django
     </td>
-    <tr>
-    </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
