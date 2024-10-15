@@ -274,7 +274,7 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Games-Site/blob/main/preview1.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Games-Site/blob/main/preview2.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Games-Site/tree/main">Gaming Website</a> - Full-stack application
     </td>
