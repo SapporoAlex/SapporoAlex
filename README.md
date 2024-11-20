@@ -88,6 +88,13 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
     </td>
   </tr>
+  <tr>
+      <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/blob/main/web_to_gs.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/tree/main">Basketball Data Scraper</a> - Scrapes data, and uploads it to Google Sheets.
+    </td>
+  </tr>
 </table>
 
 
