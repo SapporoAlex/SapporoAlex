@@ -20,14 +20,17 @@ I have a background in education, and I can see the potential in utilising these
 
 ## Technologies & Tools
 <div id="languages" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; margin: 10px; padding: 10px; gap: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="80" style="margin: 10px; padding: 10px;">
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" height="80" style="margin: 10px; padding: 10px;">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/python.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/django.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/jupyter.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/js.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/html.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/css.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ruby.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/rails.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/C%2B%2B.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/mysql.png" width="200px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/git.png" width="200px" height="auto">
 </div>
 
 
