@@ -288,6 +288,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Travel-Blog-Site/tree/main">Travel Blog Site</a> - Ruby on Rails blog site
     </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Food-log-app/blob/main/previews/fl1.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Food-log-app/blob/main/README.md">Travel Blog Site</a> - Ruby on Rails blog site
+    </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
