@@ -156,18 +156,20 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Event-Schedule-Builder/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -190,18 +192,20 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - Educational game that runs in the terminal
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Calculator/blob/main/preview.jpg" style="max-height:20vw; height:auto; object-fit:cover;">
       <br>
