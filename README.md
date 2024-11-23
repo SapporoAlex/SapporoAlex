@@ -50,19 +50,21 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
-      </td>
+  </td>
+ </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/tree/main">OpenWeatherMap ETL data pipeline</a> - Extracts JSON from API, Transforms with pandas, Loads into SQLite.
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib">Lifestyle Visualisation</a> - An ongoing project visualising personal stats with Seaborn & Matplotlib.
     </td>
+  <tr>
+  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -85,13 +87,12 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - Scrapes the latest special deal card prices from the Hareruya website.
     </td>
+  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
     </td>
-  </tr>
-  <tr>
       <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/blob/main/web_to_gs.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -114,18 +115,19 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - Uses Openpyxl and the Deepl API to translate Excel files.
     </td>
+  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/PDF-Translator/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
     </td>
+</tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -226,18 +228,19 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Game-African-President">African President</a> - 1960s-Era RPG as an African President
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
-  <tr>
-  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="width: 20vw; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
+  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 20vw; height: auto; object-fit:cover;">
       <br>
@@ -263,14 +266,14 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width:20vw; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
       <br>
     </td>
-  <tr>
-  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/preview.jpg" style="max-width:20vw; height: auto; object-fit:cover;">
       <br>
@@ -291,7 +294,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Food-log-app/blob/main/previews/fl1.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Food-log-app/blob/main/README.md">Travel Blog Site</a> - Ruby on Rails blog site
+      <a href="https://github.com/SapporoAlex/Food-log-app/blob/main/README.md">Foodlog</a> - Ruby on Rails Food Logging App
     </td>
   </tr>
   <tr>
@@ -305,18 +308,20 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Portfolio-Japanese-Version">Personal Portfolio Site (Japanese-Language)</a> - My portfolio site for Japanese readers
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
