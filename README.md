@@ -111,28 +111,36 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/tree/main">Kyoto Machiya Earnings Report Automation</a> - Data extraction, processing, and report generation.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/Excel%20Translator.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/README.md"</a> - Uses GoogleTrans API to translate Excel files.
+    </td>
+  </tr>
+    <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - Uses Openpyxl and the Deepl API to translate Excel files.
     </td>
-  </tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/PDF-Translator/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
     </td>
+</tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
     </td>
-</tr>
-  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - Reads an Excel file, creates invoice sheet, then sends by email.
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/TV-Scheduler/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
