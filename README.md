@@ -113,7 +113,7 @@ I have a background in education, and I can see the potential in utilising these
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/Excel%20Translator.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/README.md"</a> - Uses GoogleTrans API to translate Excel files.
+      <a href="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/README.md">Japanese to English Excel Translator</a> - Uses GoogleTrans API to translate Excel files.
     </td>
   </tr>
     <tr>
