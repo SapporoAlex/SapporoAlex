@@ -299,6 +299,11 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/list.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/README.md">Student Portal Site</a> - Ruby on Rails full-stack app
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://sapporoalex.github.io/Magnus-Carlsen-landing-page/">Magnus Carlsen info site</a> - Biography static webpage
