@@ -24,6 +24,7 @@ I have a background in education, and I can see the potential in utilising these
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/django.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/jupyter.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/js.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ts.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/html.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/css.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ruby.png" width="150px" height="auto">
@@ -31,6 +32,7 @@ I have a background in education, and I can see the potential in utilising these
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/C%2B%2B.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/mysql.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/git.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/docker.png" width="150px" height="auto">
 </div>
 
 
