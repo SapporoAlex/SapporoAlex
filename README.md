@@ -368,7 +368,7 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SapporoAlex)
+
 
 Feel free to explore and provide feedback on any of the projects!
 
