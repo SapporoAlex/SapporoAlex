@@ -9,6 +9,7 @@ I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Wel
 I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love working on data analysis, data science, software development, and programming games, but I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing high-quality work solo.
 
 ## Qualifications
+- From Novice to Expert: Mastering C++ Programming (codedamn)
 - JavaScript Algorithms & Data Structures (freeCodeCamp)
 - Responsive Web Design (freeCodeCamp)
 - Data Analysis with Python (freeCodeCamp)
