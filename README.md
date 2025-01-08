@@ -345,14 +345,14 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Won-to-USD-Converter/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://sapporoalex.github.io/Won-to-USD-Converter/">KRW to USD Converter</a> - Korean Won to US Dollars currency converter page
+    </td>    
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
     </td>
   </tr>
   <tr>
@@ -365,6 +365,13 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - Mock fruit shop website built with Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
     </td>
   </tr>
 </table>
