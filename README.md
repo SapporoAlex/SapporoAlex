@@ -157,6 +157,13 @@ I have a background in education, and I can see the potential in utilising these
 ### Software Development
 <table>
   <tr>
+    <td>
+      <img src="https://github.com/SapporoAlex/JS-Minifier/blob/main/JSMinifier.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/JS-Minifier">JavaScript Minifier</a> - Java program that compresses JavaScript files.
+    </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
