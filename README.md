@@ -240,11 +240,16 @@ I have a background in education, and I can see the potential in utilising these
 
 ### Game Development
 <table>
-    <tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Cat-Owner/blob/main/assets/img/catOwner.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Cat-Owner/blob/main/README.md">Cat Owner</a> - Cat Owner Sim written in TS
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Java-Platformer/blob/main/Preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Java-Platformer">Java-Platformer</a> - Inspired by Amiga's "Wonder Boy in Monsterland"
     </td>
   </tr>
   <tr>
