@@ -327,9 +327,9 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/README.md">Student Portal Site</a> - Ruby on Rails full-stack app
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://raw.githubusercontent.com/SapporoAlex/Roll-Call-Web-App/main/records.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://sapporoalex.github.io/Magnus-Carlsen-landing-page/">Magnus Carlsen info site</a> - Biography static webpage
+      <a href="https://github.com/SapporoAlex/Roll-Call-Web-App/blob/main/README.md">Roll Call Web App</a> - Made in Google Sheets Apps Script
     </td>
   </tr>
   <tr>
@@ -385,6 +385,11 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://sapporoalex.github.io/Magnus-Carlsen-landing-page/">Magnus Carlsen info site</a> - Biography static webpage
     </td>
   </tr>
 </table>
