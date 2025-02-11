@@ -45,15 +45,15 @@ I have a background in education, and I can see the potential in utilising these
 
 <table>
  <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
+  <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+    <br>
+    <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
+  </td>
+  <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+    <br>
+    <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
   </td>
  </tr>
   <tr>
@@ -67,8 +67,8 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib">Lifestyle Visualisation</a> - An ongoing project visualising personal stats with Seaborn & Matplotlib.
     </td>
-  <tr>
   </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -92,12 +92,13 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - Scrapes the latest special deal card prices from the Hareruya website.
     </td>
   </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
     </td>
-      <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/blob/main/web_to_gs.png" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/tree/main">Basketball Data Scraper</a> - Scrapes data, and uploads it to Google Sheets.
@@ -120,7 +121,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/README.md">Japanese to English Excel Translator</a> - Uses GoogleTrans API to translate Excel files.
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -132,7 +133,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
     </td>
 </tr>
-  <tr>
+<tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
@@ -235,7 +236,7 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - basic calculator made in C++
     </td>
-</tr>
+  </tr>
 </table>
 
 ### Game Development
@@ -276,6 +277,7 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
   </tr>
+  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 20vw; height: auto; object-fit:cover;">
       <br>
