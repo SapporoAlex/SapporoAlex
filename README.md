@@ -164,6 +164,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/JS-Minifier">JavaScript Minifier</a> - Java program that compresses JavaScript files.
     </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Android-Calculator-App/blob/main/calc.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Android-Calculator-App">Android Calculator App</a> - Android app written in Kotlin.
+    </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
