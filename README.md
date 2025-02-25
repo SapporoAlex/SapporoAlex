@@ -152,6 +152,11 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/TV-Scheduler">TV Scheduler</a> - Plays videos to a screen at designated times
     </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/tree/main">Voice Driven Daily Activity Logger</a> - Uses speech recognition, and text to speech to record personal stats.
+    </td>
   </tr>
 </table>
 
@@ -166,16 +171,16 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/JS-Minifier">JavaScript Minifier</a> - Java program that compresses JavaScript files.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Android-Calculator-App/blob/main/calc.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/forReadMe/monsterDice.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Android-Calculator-App">Android Calculator App</a> - Android app written in Kotlin.
+      <a href="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/README.md">Monster Dice App</a> - Android app written in Kotlin, for DMs.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Android-Calculator-App/blob/main/calc.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/tree/main">Voice Driven Daily Activity Logger</a> - Uses speech recognition, and text to speech to record personal stats.
+      <a href="https://github.com/SapporoAlex/Android-Calculator-App">Calculator App</a> - Android app written in Kotlin.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:20vw; height:auto; object-fit:cover;">
