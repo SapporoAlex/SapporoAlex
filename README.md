@@ -28,6 +28,7 @@ I have a background in education, and I can see the potential in utilising these
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ts.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/html.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/java.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/kotlin.svg.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/css.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ruby.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/rails.png" width="150px" height="auto">
