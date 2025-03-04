@@ -152,85 +152,85 @@ I have a background in education, and I can see the potential in utilising these
 ### Software Development
 <table>
   <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/JS-Minifier/blob/main/JSMinifier.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/JS-Minifier">JavaScript Minifier</a> - Java program that compresses JavaScript files.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/forReadMe/monsterDice.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/README.md">Monster Dice App</a> - Android app written in Kotlin, for DMs.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Event-Schedule-Builder/blob/main/preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Event-Schedule-Builder">Event Builder</a> - Makes building event schedules fast and simple for teachers.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - Educational game that runs in the terminal
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Android-Calculator-App/blob/main/calc.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Android-Calculator-App">Calculator App</a> - Android app written in Kotlin.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Calculator/blob/main/preview.jpg" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Calculator/blob/main/README.md">Basic Calculator</a> - basic calculator made in Ruby
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - basic calculator made in C++
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/tree/main">Voice Driven Daily Activity Logger</a> - Uses speech recognition, and text to speech to record personal stats.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+    <td align="center" style="padding: 10px; max-width:10vw; height:auto;">
       <img src="https://github.com/SapporoAlex/TV-Scheduler/blob/main/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/TV-Scheduler">TV Scheduler</a> - Plays videos to a screen at designated times
