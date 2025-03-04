@@ -47,58 +47,58 @@ I have a background in education, and I can see the potential in utilising these
 <table>
  <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/tree/main">OpenWeatherMap ETL data pipeline</a> - Extracts JSON from API, Transforms with pandas, Loads into SQLite.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib/blob/main/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Data-Visualisation-with-Seaborn-Matplotlib">Lifestyle Visualisation</a> - An ongoing project visualising personal stats with Seaborn & Matplotlib.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/preview.png?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/README.md">Shortest Path Algorithm Visualiser</a> - Uses Breadth-First-Search to find the shortest path.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Mean-Variance-Standard-Deviation-Calculator/tree/main">Array Statistics Calculator</a> - Calculates mean, variance, and standard deviation.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Blogpost-scraper/blob/main/p.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Blogpost-scraper/blob/main/p.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Blogpost-scraper">Blogpost Scraper</a> - Scrapes every entry by username.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/MTG-new-card-price-webscraper/blob/main/README.md">Webscraper</a> - Scrapes the latest special deal card prices from the Hareruya website.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API">Chess Ratings Tracker</a> - Retrieves chess ratings data from chess.com, visualises data.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/blob/main/web_to_gs.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/blob/main/web_to_gs.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basketball-Monster-to-Google-Sheets/tree/main">Basketball Data Scraper</a> - Scrapes data, and uploads it to Google Sheets.
     </td>
