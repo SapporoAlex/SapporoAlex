@@ -46,17 +46,16 @@ I have a background in education, and I can see the potential in utilising these
 
 <table>
  <tr>
-  <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-    <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
-    <br>
-    <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
-  </td>
-  <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-    <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
-    <br>
-    <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
-  </td>
-  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/KPI-Tracker/tree/main">KPI Tracker</a> - Made for Titan Greentech. Scrapes and processes staff KPI data, creates Excel workbook with tables and charts, sends workbook by email.
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update">Hotel Data Update</a> - Made for Value-Build Ltd. Retrieves daily hotel reservations/cancellations, sends email update to staff.
+    </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
       <br>
