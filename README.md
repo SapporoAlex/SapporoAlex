@@ -41,15 +41,6 @@ I have a background in education, and I can see the potential in utilising these
 
 ## My Projects
 
-
-## Data Analysis
-
-| ![KPI Tracker](https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg?raw=true) | ![Hotel Data Update](https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update/blob/main/Preview.jpeg?raw=true) | ![OpenWeatherMap ETL](https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/blob/main/preview.jpg?raw=true) |
-|:--:|:--:|:--:|
-| [**KPI Tracker**](https://github.com/SapporoAlex/KPI-Tracker/tree/main) | [**Hotel Data Update**](https://github.com/SapporoAlex/Hotel-Reservation-Cancellation-Daily-Update) | [**OpenWeatherMap ETL**](https://github.com/SapporoAlex/OpenWeather-ETL-data-pipeline-/tree/main) |
-| Scrapes staff KPI data, creates Excel reports, emails them. | Retrieves daily hotel reservations/cancellations, emails staff updates. | Extracts API JSON, processes data with Pandas, stores in SQLite. |
-
-
 ### Data Analysis
 
 <table>
