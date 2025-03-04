@@ -110,34 +110,34 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/tree/main">Kyoto Machiya Earnings Report Automation</a> - Data extraction, processing, and report generation.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/Excel%20Translator.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/Excel%20Translator.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/README.md">Japanese to English Excel Translator</a> - Uses GoogleTrans API to translate Excel files.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Excel-to-Deepl-Translator/blob/main/process.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Excel-to-Deepl-Translator">Japanese to English Excel Translator</a> - Uses Openpyxl and the Deepl API to translate Excel files.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/PDF-Translator/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/PDF-Translator/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - Reads an Excel file, creates invoice sheet, then sends by email.
     </td>
@@ -153,85 +153,85 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/JS-Minifier/blob/main/JSMinifier.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/JS-Minifier/blob/main/JSMinifier.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/JS-Minifier">JavaScript Minifier</a> - Java program that compresses JavaScript files.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/forReadMe/monsterDice.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/forReadMe/monsterDice.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Monster-Dice-Android/blob/main/README.md">Monster Dice App</a> - Android app written in Kotlin, for DMs.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI/blob/main/MAR%20Assets/Other/preview-thumb.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/DND-Monster-Attack-Roller-GUI">DND Monster Attack Roller</a> - Sleek, convenient game calculator
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Event-Schedule-Builder/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Event-Schedule-Builder/blob/main/preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Event-Schedule-Builder">Event Builder</a> - Makes building event schedules fast and simple for teachers.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Timecard-Shift-Calculator">Timecard & Shift Calculator</a> - Made for Kyoto Machiyas.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Employee-Time-Card-App/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Employee-Time-Card-App">Employee Timecard App</a> - Made for IKS Sapporo International Kindergarten & School.
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Sudoku-Solver/blob/main/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Sudoku-Solver.git">Sudoku Solver</a> - Uses recursive backtracking algorithm to solve a sudoku puzzle.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Text-Editor-with-Emojis/blob/main/sample.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Text-Editor-with-Emojis">Text Editor with Emojis</a> - Text editor made with the TKinter library.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Maths-Quiz/blob/main/Maths%20Quiz.png?raw=true" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Maths-Quiz/tree/main">Elementary Maths Quiz</a> - Educational game that runs in the terminal
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Android-Calculator-App/blob/main/calc.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Android-Calculator-App/blob/main/calc.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Android-Calculator-App">Calculator App</a> - Android app written in Kotlin.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Calculator/blob/main/preview.jpg" style="max-height:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Calculator/blob/main/preview.jpg" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Calculator/blob/main/README.md">Basic Calculator</a> - basic calculator made in Ruby
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Basic-Calculator">Basic Calculator</a> - basic calculator made in C++
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/blob/main/audio-driven-daily-activity-logger.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Voice-Driven-Daily-Activity-Logger/tree/main">Voice Driven Daily Activity Logger</a> - Uses speech recognition, and text to speech to record personal stats.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/QR-Code-Generator/blob/main/preview.png" style="max-height:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/QR-Code-Generator">QR Code Generator</a> - Paste URLS in to get instant png files
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/TV-Scheduler/blob/main/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/TV-Scheduler/blob/main/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/TV-Scheduler">TV Scheduler</a> - Plays videos to a screen at designated times
     </td>
@@ -242,52 +242,52 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Cat-Owner/blob/main/assets/img/catOwner.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Cat-Owner/blob/main/assets/img/catOwner.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Cat-Owner/blob/main/README.md">Cat Owner</a> - Cat Owner Sim written in TS
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Java-Platformer/blob/main/Preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Java-Platformer/blob/main/Preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Java-Platformer">Java-Platformer</a> - Inspired by Amiga's "Wonder Boy in Monsterland"
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Game-Dungeon-Quest/blob/main/assets/preview_img.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Dungeon-Quest">Dungeon Quest</a> - 90s style dungeon crawler
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Park-Text-Based-Adventure/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Park-Text-Based-Adventure/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Park-Text-Based-Adventure">The Park</a> - Text-based C++ game
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-African-President">African President</a> - 1960s-Era RPG as an African President
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="width: 20vw; height: auto;">
+      <img src="https://github.com/SapporoAlex/Game-Defender/blob/main/assets/preview.gif" style="width: 10vw; height: auto;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Defender">Defender</a> - Arcade style shooter
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width: 20vw; height: auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Hammy-Racing-2024/blob/main/preview.jpg" style="max-width:10vw; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hammy-Racing-2024/tree/main">Hammy Racing 2024</a> - Fun game made in JavaScript
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Hammy-Stop/blob/main/images/preview3.gif" style="max-width: 20vw; height: auto">
+      <img src="https://github.com/SapporoAlex/Game-Hammy-Stop/blob/main/images/preview3.gif" style="max-width: 10vw; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Hammy-Stop/tree/main">Hammy Stop</a> - Python game with animation
       <br>
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width:20vw; height: auto">
+      <img src="https://github.com/SapporoAlex/Game-Snake/blob/main/assets/sample.gif" style="max-width:10vw; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Snake">Snake</a> - Snake with dynamic original music and sound effects
       <br>
@@ -295,19 +295,19 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:20vw; height: auto">
+      <img src="https://github.com/SapporoAlex/Naughts-Crosses/blob/main/preview.gif" style="max-width:10vw; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Naughts-Crosses">Naughts and Crosses</a> - Single player tic-tac-toe against CPU
       <br>
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width:20vw; height: auto">
+      <img src="https://github.com/SapporoAlex/Tetris/blob/main/preview.jpg" style="width:10vw; height: auto">
       <br>
       <a href="https://github.com/SapporoAlex/Tetris/tree/main">Tetris</a> - Incremental speed, high-score saving
       <br>
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/preview.jpg" style="max-width:20vw; height: auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/preview.jpg" style="max-width:10vw; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
     </td>
@@ -320,80 +320,80 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Portfolio-Japanese-Version/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Portfolio-Japanese-Version/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Portfolio-Japanese-Version">Personal Portfolio Site (Japanese-Language)</a> - My portfolio site for Japanese readers
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/magnus.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/magnus.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://sapporoalex.github.io/Magnus-Carlsen-landing-page/">Magnus Carlsen info site</a> - Biography static webpage
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Games-Site/blob/main/preview2.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Games-Site/blob/main/preview2.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Games-Site/tree/main">Gaming Website</a> - Full-stack application
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://raw.githubusercontent.com/SapporoAlex/Roll-Call-Web-App/main/records.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://raw.githubusercontent.com/SapporoAlex/Roll-Call-Web-App/main/records.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Roll-Call-Web-App/blob/main/README.md">Roll Call Web App</a> - Made in Google Sheets Apps Script
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Won-to-USD-Converter/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Won-to-USD-Converter/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://sapporoalex.github.io/Won-to-USD-Converter/">KRW to USD Converter</a> - Korean Won to US Dollars currency converter page
     </td>   
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/list.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/list.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/README.md">Student Portal Site</a> - Ruby on Rails full-stack app
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Food-log-app/blob/main/previews/fl1.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Food-log-app/blob/main/previews/fl1.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Food-log-app/blob/main/README.md">Foodlog</a> - Ruby on Rails Food Logging App
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Travel-Blog-Site/blob/main/preview.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Travel-Blog-Site/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Travel-Blog-Site/tree/main">Travel Blog Site</a> - Ruby on Rails blog site
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Karuta-Reader/blob/main/KarutaReader.jpg" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Karuta-Reader/blob/main/KarutaReader.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Karuta-Reader/blob/main/README.md">Karuta Game Announcer</a> - Assists players in hiragana karuta game by reading prompts.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
     </td>
         <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Hanashi-Blog-Site">Hanashi Blog</a> - Blog site with CRUD operations made in Django
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:20vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - Mock fruit shop website built with Django
     </td>
