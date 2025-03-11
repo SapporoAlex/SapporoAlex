@@ -114,6 +114,23 @@ I have a background in education, and I can see the potential in utilising these
       <a href="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/tree/main">Kyoto Machiya Earnings Report Automation</a> - Data extraction, processing, and report generation.
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - Reads an Excel file, creates invoice sheet, then sends by email.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/AI-Agent-Translator/blob/main/translatorAIAgent.png" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/AI-Agent-Translator">AI Agent Japanese to English Translator</a> - Uses phi.agent with Groq to translate Excel files.
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/Excel%20Translator.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Translator-GoogleTrans-/blob/main/README.md">Japanese to English Excel Translator</a> - Uses GoogleTrans API to translate Excel files.
@@ -130,19 +147,6 @@ I have a background in education, and I can see the potential in utilising these
       <br>
       <a href="https://github.com/SapporoAlex/PDF-Translator/tree/main">PDF to Text and Translation</a> - Converts PDF to text and translates into English.
     </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Email-Parser/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Email-Parser">Email Parser</a> - Extracts relevant data every 12 hours, creates dataframe, sends to staff.
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Automated-Invoice/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Automated-Invoice">Invoice Creator</a> - Reads an Excel file, creates invoice sheet, then sends by email.
-    </td>
-  </tr>
-  <tr>
-
   </tr>
 </table>
 
