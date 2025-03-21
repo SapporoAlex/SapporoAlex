@@ -245,9 +245,9 @@ I have a background in education, and I can see the potential in utilising these
 <table>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Cat-Owner/blob/main/assets/img/catOwner.png" style="max-width:10vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/2d-Drone-Shooter-Game/blob/main/bn.gif" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Cat-Owner/blob/main/README.md">Cat Owner</a> - Cat Owner Sim written in TS
+      <a href="https://github.com/SapporoAlex/2d-Drone-Shooter-Game/blob/main/README.md">Bust a Nut!</a> - Mouse-clicker shooter written in TS
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Java-Platformer/blob/main/Preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
@@ -262,9 +262,9 @@ I have a background in education, and I can see the potential in utilising these
   </tr>
   <tr>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Park-Text-Based-Adventure/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <img src="https://github.com/SapporoAlex/Cat-Owner/blob/main/assets/img/catOwner.png" style="max-width:10vw; height:auto; object-fit:cover;">
       <br>
-      <a href="https://github.com/SapporoAlex/Park-Text-Based-Adventure">The Park</a> - Text-based C++ game
+      <a href="https://github.com/SapporoAlex/Cat-Owner/blob/main/README.md">Cat Owner</a> - Cat Owner Sim written in TS
     </td>
     <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
       <img src="https://github.com/SapporoAlex/Game-African-President/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
@@ -313,6 +313,13 @@ I have a background in education, and I can see the potential in utilising these
       <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/preview.jpg" style="max-width:10vw; height: auto; object-fit:cover;">
       <br>
       <a href="https://github.com/SapporoAlex/Game-Unicorn-Jump">Unicorn Jump</a> - Original re-skin of the Dino Jump game
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Park-Text-Based-Adventure/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Park-Text-Based-Adventure">The Park</a> - Text-based C++ game
     </td>
   </tr>
 </table>
