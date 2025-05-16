@@ -6,12 +6,12 @@
 I'm an Aussie and a passionate Pythonista based in Sapporo, Hokkaido, Japan. Welcome to my GitHub profile!
 
 ## About Me
-I have a background in education, and I can see the potential in utilising these skills in programming and working as a team to design and create ground-breaking programs and services. I love working on data analysis, data science, software development, and programming games, but I'm always eager to learn and explore new things. I love working with a team to make big ideas a reality, but I am more than capable of also producing high-quality work solo.
+I'm a frontend developer with a background in education. I also work on data analysis using python, and build small games and software for fun.
 
 ## Qualifications
-- From Novice to Expert: Mastering C++ Programming (codedamn)
 - JavaScript Algorithms & Data Structures (freeCodeCamp)
 - Responsive Web Design (freeCodeCamp)
+- From Novice to Expert: Mastering C++ Programming (codedamn)
 - Data Analysis with Python (freeCodeCamp)
 - Scientific Computing with Python (freeCodeCamp)
 - Build a free website with WordPress (Cousera)
@@ -41,6 +41,97 @@ I have a background in education, and I can see the potential in utilising these
 
 
 ## My Projects
+
+### Web Development
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Dagny-Portfolio/blob/main/Dagny.png" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://sapporoalex.github.io/Dagny-Portfolio/">Artist Portfolio Site</a> - Portfolio site built with React
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Portfolio-Japanese-Version/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Portfolio-Japanese-Version">Personal Portfolio Site (Japanese-Language)</a> - My portfolio site for Japanese readers
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
+    </td>
+
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Games-Site/blob/main/preview2.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Games-Site/tree/main">Gaming Website</a> - Full-stack application
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://raw.githubusercontent.com/SapporoAlex/Roll-Call-Web-App/main/records.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Roll-Call-Web-App/blob/main/README.md">Roll Call Web App</a> - Made in Google Sheets Apps Script
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Won-to-USD-Converter/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://sapporoalex.github.io/Won-to-USD-Converter/">KRW to USD Converter</a> - Korean Won to US Dollars currency converter page
+    </td>   
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/list.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/README.md">Student Portal Site</a> - Ruby on Rails full-stack app
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Food-log-app/blob/main/previews/fl1.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Food-log-app/blob/main/README.md">Foodlog</a> - Ruby on Rails Food Logging App
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Travel-Blog-Site/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Travel-Blog-Site/tree/main">Travel Blog Site</a> - Ruby on Rails blog site
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Karuta-Reader/blob/main/KarutaReader.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Karuta-Reader/blob/main/README.md">Karuta Game Announcer</a> - Assists players in hiragana karuta game by reading prompts.
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
+    </td>
+        <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/Hanashi-Blog-Site">Hanashi Blog</a> - Blog site with CRUD operations made in Django
+    </td>
+    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - Mock fruit shop website built with Django
+    </td>
+        <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
+      <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/magnus.png" style="max-width:10vw; height:auto; object-fit:cover;">
+      <br>
+      <a href="https://sapporoalex.github.io/Magnus-Carlsen-landing-page/">Magnus Carlsen info site</a> - Biography static webpage
+    </td>
+  </tr>
+</table>
 
 ### Data Analysis
 
@@ -326,90 +417,7 @@ I have a background in education, and I can see the potential in utilising these
 </table>
 
 
-### Web Development
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Portfolio-Japanese-Version/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Portfolio-Japanese-Version">Personal Portfolio Site (Japanese-Language)</a> - My portfolio site for Japanese readers
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Personal-Portfolio-Website/blob/main/Preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Personal-Portfolio-Website.git">Example Portfolio Site</a> - Simple portfolio page with links made with HTML & CSS
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Magnus-Carlsen-landing-page/blob/main/magnus.png" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://sapporoalex.github.io/Magnus-Carlsen-landing-page/">Magnus Carlsen info site</a> - Biography static webpage
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Games-Site/blob/main/preview2.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Games-Site/tree/main">Gaming Website</a> - Full-stack application
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://raw.githubusercontent.com/SapporoAlex/Roll-Call-Web-App/main/records.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Roll-Call-Web-App/blob/main/README.md">Roll Call Web App</a> - Made in Google Sheets Apps Script
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Won-to-USD-Converter/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://sapporoalex.github.io/Won-to-USD-Converter/">KRW to USD Converter</a> - Korean Won to US Dollars currency converter page
-    </td>   
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/list.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Student-Portal-Site/blob/master/README.md">Student Portal Site</a> - Ruby on Rails full-stack app
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Food-log-app/blob/main/previews/fl1.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Food-log-app/blob/main/README.md">Foodlog</a> - Ruby on Rails Food Logging App
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Travel-Blog-Site/blob/main/preview.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Travel-Blog-Site/tree/main">Travel Blog Site</a> - Ruby on Rails blog site
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Karuta-Reader/blob/main/KarutaReader.jpg" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Karuta-Reader/blob/main/README.md">Karuta Game Announcer</a> - Assists players in hiragana karuta game by reading prompts.
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Roman-Numeral-Converter/blob/main/preview.gif" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Roman-Numeral-Converter">Roman Numeral Converter</a> - Made in JavaScript with CSS animated background.
-    </td>
-        <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Halloween-Page/blob/main/static/preview.png" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Halloween-Page/tree/main">Halloween Site</a> - Educational resource for K-7 ESL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/Hanashi-Blog-Site/blob/main/preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/Hanashi-Blog-Site">Hanashi Blog</a> - Blog site with CRUD operations made in Django
-    </td>
-    <td align="center" style="padding: 10px; max-width:20vw; height:auto;">
-      <img src="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django/blob/main/Preview.jpg?raw=true" style="max-width:10vw; height:auto; object-fit:cover;">
-      <br>
-      <a href="https://github.com/SapporoAlex/PyShop-Website-Made-in-Django">PyShop</a> - Mock fruit shop website built with Django
-    </td>
-  </tr>
-</table>
 
 Feel free to explore and provide feedback on any of the projects!
 
