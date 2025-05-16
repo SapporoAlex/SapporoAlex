@@ -21,13 +21,14 @@ I have a background in education, and I can see the potential in utilising these
 
 ## Technologies & Tools
 <div id="languages" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; margin: 10px; padding: 15px; gap: 15px;">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/js.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ts.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/react.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/html.png" width="150px" height="auto">
+  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/css.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/python.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/django.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/jupyter.png" width="150px" height="auto">
-  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/js.png" width="150px" height="auto">
-  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ts.png" width="150px" height="auto">
-  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/html.png" width="150px" height="auto">
-  <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/css.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/java.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/Kotlin_Icon.svg.png" width="150px" height="auto">
   <img src="https://github.com/SapporoAlex/SapporoAlex/blob/main/ruby.png" width="150px" height="auto">
